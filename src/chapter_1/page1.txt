@@ -1,9 +1,7 @@
 
 
-I am working on my own project
-The project has 3 features
-
-Java is cool, so I am using it
-I will start learning Python
-
+I am working on my own project.
+The project has 3 features.
+Java is cool, so I am using it!
+I will start learning Python.
 I love Revolution Populi
