@@ -1,0 +1,6 @@
+
+I studied at Harvard University.
+
+I took CS50 courses.
+
+I am master at Git, Java and Python.
